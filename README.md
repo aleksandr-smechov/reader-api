@@ -4,7 +4,7 @@
 
 ![Image of a book](https://cdn.pixabay.com/photo/2015/06/02/12/59/narrative-794978_1280.jpg)
 
-Reader is a free readability-style API built on top of ![Extract Article Text](https://extractarticletext.com) and uses the same ![random-forrest-based ML model](https://github.com/aleksandr-smechov/vellichor) to extract relevant body text from editorial content like news articles, blogs, press releases, and so on.
+Reader is a free readability-style API built on top of [Extract Article Text](https://extractarticletext.com) and uses the same [random-forrest-based ML model](https://github.com/aleksandr-smechov/vellichor) to extract relevant body text from editorial content like news articles, blogs, press releases, and so on.
 
 Here's how it works:
 
