@@ -9,7 +9,7 @@ Reader is a free readability-style API built on top of [Extract Article Text](ht
 Here's how it works:
 
 1. Start with the base URL: https://extractarticletext.com/api/reader/
-2. Add the API key: ?apikey=b6809899e431be42a883912aa148c6be03e16e9b
+2. Add the API key: ?apikey=44b922eee33d14781f30af26c3951b6a1e706221
 3. Add any parameters (see below).
 4. Add a URL: &url=https://example.com
 
